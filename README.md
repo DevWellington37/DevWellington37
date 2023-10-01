@@ -1,9 +1,7 @@
  ###  <img align="center" alt="Ally-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />   oi eu sou o wellington araujo   <img align="center" alt="Ally-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Seja bem vindo(a) ao meu perfil GitHub! <img align="center" alt="Ally-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  - 🌱 Atualmente estou estudando  
  - 🌱 Etou à procura do meu primeiro emprego como dev
-.minha-div {
-    margin-bottom: 20px; /* Ajuste o valor conforme necessário */
-  }
+
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
